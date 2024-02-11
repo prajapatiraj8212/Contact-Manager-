@@ -1,0 +1,80 @@
+{
+  "contacts": [
+    {
+      "id": 12,
+      "name": "Siddharth",
+      "photo": "https://cdn-icons-png.flaticon.com/512/1177/1177568.png",
+      "mobile": "6387414457",
+      "email": "siddharthverma7599@gmail.com",
+      "company": "Softpro",
+      "title": "Developer",
+      "groupId": "1"
+    },
+    {
+      "id": 14,
+      "name": "Harsh",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIn-gE6j6sjvg0ekFgFBIzVP5VdN3aBu9dLg&usqp=CAU",
+      "mobile": "6387414459",
+      "email": "harsh123@gmail.com",
+      "company": "Softpro",
+      "title": "Developer",
+      "groupId": "3"
+    },
+    {
+      "id": 15,
+      "name": "Yash Gupta",
+      "photo": "https://png.pngtree.com/png-vector/20190307/ourmid/pngtree-vector-add-user-icon-png-image_780603.jpg",
+      "mobile": "8576857220",
+      "email": "yashgupta123@gmail.com",
+      "company": "Wipro",
+      "title": "Software Engineer",
+      "groupId": "2"
+    },
+    {
+      "id": 16,
+      "name": "Sarvesh",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv1bNiLkJdKgheMl1Bqi1eecDJsufGqq82LA&usqp=CAU",
+      "mobile": "6387414461",
+      "email": "sarvesh123@gmail.com",
+      "company": "wipro",
+      "title": "Trainer",
+      "groupId": "5"
+    },
+    {
+      "id": 17,
+      "name": "Vishal",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmJUeQCIV5gK-gudX5l3OIhRcmgnbtGDhExw&usqp=CAU",
+      "mobile": "6387414462",
+      "email": "vishal123@gmail.com",
+      "company": "TCS",
+      "title": "Tester",
+      "groupId": "6"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Colleague"
+    },
+    {
+      "id": 2,
+      "name": "School"
+    },
+    {
+      "id": 3,
+      "name": "Family"
+    },
+    {
+      "id": 4,
+      "name": "Social"
+    },
+    {
+      "id": 5,
+      "name": "Community"
+    },
+    {
+      "id": 6,
+      "name": "Others"
+    }
+  ]
+}
