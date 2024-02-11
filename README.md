@@ -80,7 +80,7 @@ For Cient  Side start
 run npm start 
 
 <p align="center">
-  <img src=" https://github.com/prajapatiraj8212/Contact-Manager-/assets/118254313/a1f70235-aabe-4a16-92da-d88f46cf9145)">
+  <img src=" https://github.com/prajapatiraj8212/Contact-Manager-/assets/118254313/a1f70235-aabe-4a16-92da-d88f46cf9145)" />
 </p>
 
 
