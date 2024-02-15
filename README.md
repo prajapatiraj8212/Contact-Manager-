@@ -81,4 +81,11 @@ run npm start
 
 ![s1](https://github.com/prajapatiraj8212/Contact-Manager-/assets/118254313/6aecf4a8-0cac-4bb3-822b-9679ab3ba933)
 
+![s3](https://github.com/prajapatiraj8212/Contact-Manager-/assets/118254313/ac99a5e4-e843-4b74-8aac-37562af258c4) 
+
+
+![s4](https://github.com/prajapatiraj8212/Contact-Manager-/assets/118254313/c5fe240b-4698-4b56-bec9-42804cb197e4)
+
+![s2](https://github.com/prajapatiraj8212/Contact-Manager-/assets/118254313/6a85602a-6dac-413d-a4bb-a1a85b53f027)
+
 
