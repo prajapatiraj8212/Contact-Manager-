@@ -79,9 +79,6 @@ npm start
 For Cient  Side start
 run npm start 
 
-<p align="center">
-  <img src=" https://github.com/prajapatiraj8212/Contact-Manager-/assets/118254313/a1f70235-aabe-4a16-92da-d88f46cf9145" width="350px" height="350px">
-</p>
-
+![s1](https://github.com/prajapatiraj8212/Contact-Manager-/assets/118254313/6aecf4a8-0cac-4bb3-822b-9679ab3ba933)
 
 
